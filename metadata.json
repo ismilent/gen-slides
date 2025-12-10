@@ -1,0 +1,5 @@
+{
+  "name": "Gemini SlideCraft Pro",
+  "description": "An intelligent slide deck generator powered by Gemini 3 Pro and Nano Banana Pro. Transforms documents into visually stunning, picture-rich presentations.",
+  "requestFramePermissions": []
+}
